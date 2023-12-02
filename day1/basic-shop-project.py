@@ -15,7 +15,7 @@ elif 1000>=n>=600:
         print("Yanlish əməliyyat")
 elif n>=1000:
     print("Sen komputer ala bilersen")
-    print("1-nausnik(80manat)","2-telefon(520 manat)","komputer(940manat)",sep="\n")
+    print("1-nausnik(80manat)","2-telefon(520 manat)","3-komputer(940manat)",sep="\n")
     aliqarx=int(input())
     if aliqarx==1:
         print("Congrutalations nausnik aldin.", n-80, "manatin qaldi")
