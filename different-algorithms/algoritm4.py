@@ -9,5 +9,5 @@ b=n//10%10
 c=n%10
 if a**3+b**3+c**3==n:
     print("Armstrongdur")
-else:
+else:  
     print("Armstrong deyil")
