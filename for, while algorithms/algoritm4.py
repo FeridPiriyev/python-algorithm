@@ -1,3 +1,7 @@
+'''
+Ededin polindrom eded olub=olmadigini yoxlayan algoritm yazin
+'''
+
 n=int(input())
 n_copy=n
 polindrome_number=0

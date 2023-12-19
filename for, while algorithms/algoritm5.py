@@ -1,3 +1,8 @@
+'''
+Iki eded daxil edilir. Ededin ebobu ve ekobu arasinda olan ededlerden 3 e boldukde qaliqda 3 olanlarinin
+sayini tap
+'''
+
 num1=int(input())
 num2=int(input())
 num1_copy=num1
