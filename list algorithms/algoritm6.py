@@ -1,3 +1,6 @@
+'''
+men boyuk cut reqem ile en kicik tek ededin cemi
+'''
 eded=input()
 lamp=0
 min_tek=1
