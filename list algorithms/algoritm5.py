@@ -7,7 +7,6 @@ lamp=0
 for i in eded:
     if a==int(i):
         lamp=0
-        a=int(i)
     else:
         lamp=1
         break
